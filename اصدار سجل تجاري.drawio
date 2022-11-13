@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T10:34:22.954Z" agent="5.0 (iPad; CPU OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/107.0.5304.101 Mobile/15E148 Safari/604.1" etag="dvkMoeM_26p1PybcX_d6" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-13T10:44:44.464Z" agent="5.0 (iPad; CPU OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/107.0.5304.101 Mobile/15E148 Safari/604.1" etag="rIa87IXRBRudi9sgOYWO" version="20.5.3" type="github">
   <diagram id="zakXt2mR-U0YP79S-Iq2" name="Page-1">
-    <mxGraphModel dx="439" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="722" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,8 +66,45 @@
             <mxPoint x="140" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNSrUANOF6Io8pQ0f3hf-5" value="ارسارسال الرمز الشخصي &quot;PIN” والرمز الخاص بالجلسة &quot;Token”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="130" y="370" width="260" height="30" as="geometry" />
+        <mxCell id="eNSrUANOF6Io8pQ0f3hf-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="420" as="sourcePoint" />
+            <mxPoint x="90" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="420" />
+              <mxPoint x="50" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNSrUANOF6Io8pQ0f3hf-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="490" as="sourcePoint" />
+            <mxPoint x="360" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNSrUANOF6Io8pQ0f3hf-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="520" as="sourcePoint" />
+            <mxPoint x="660" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNSrUANOF6Io8pQ0f3hf-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="570" as="sourcePoint" />
+            <mxPoint x="430" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNSrUANOF6Io8pQ0f3hf-13" value="طلب اصدار سجل تجاري" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eNSrUANOF6Io8pQ0f3hf-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="610" as="sourcePoint" />
+            <mxPoint x="660" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNSrUANOF6Io8pQ0f3hf-17" value="عرض رقم الطلب" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="515" y="585" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
