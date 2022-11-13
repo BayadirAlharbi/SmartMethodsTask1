@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T11:47:12.083Z" agent="5.0 (iPad; CPU OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/107.0.5304.101 Mobile/15E148 Safari/604.1" etag="vlL2uKuNQjcToTYXE-cL" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-13T11:48:19.142Z" agent="5.0 (iPad; CPU OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/107.0.5304.101 Mobile/15E148 Safari/604.1" etag="kw6SGVFxsyVLB2pc44o3" version="20.5.3" type="github">
   <diagram id="zakXt2mR-U0YP79S-Iq2" name="Page-1">
-    <mxGraphModel dx="1850" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,8 +109,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-21" value="مطابقة السمات الحيوية مركزيًا" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="950" width="170" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-21" value="مطابقة السمات الحيوية&lt;br style=&quot;font-size: 13px;&quot;&gt;مركزيًا" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry y="965" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
