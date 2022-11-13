@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T15:58:10.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="u6Oe5sWkFQHTH_JUTOBB" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-13T16:01:16.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vSo39XdXlDCFYQ5ilKLK" version="20.5.3" type="github">
   <diagram id="zakXt2mR-U0YP79S-Iq2" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,156 +6,156 @@
         <mxCell id="1" parent="0" />
         <mxCell id="NImPXQZJimW4r6h6MOMr-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=none;" parent="1" source="NImPXQZJimW4r6h6MOMr-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="1080" as="sourcePoint" />
-            <mxPoint x="400" y="480" as="targetPoint" />
+            <mxPoint x="480" y="980" as="sourcePoint" />
+            <mxPoint x="480" y="380" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eNSrUANOF6Io8pQ0f3hf-1" value="تطبيق نفاذ" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="70" y="460" width="110" height="40" as="geometry" />
+          <mxGeometry x="150" y="360" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eNSrUANOF6Io8pQ0f3hf-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="1220" as="sourcePoint" />
-            <mxPoint x="120" y="500" as="targetPoint" />
+            <mxPoint x="200" y="1120" as="sourcePoint" />
+            <mxPoint x="200" y="400" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eNSrUANOF6Io8pQ0f3hf-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fillColor=#0050ef;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="570" as="sourcePoint" />
-            <mxPoint x="410" y="570" as="targetPoint" />
+            <mxPoint x="740" y="470" as="sourcePoint" />
+            <mxPoint x="490" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eNSrUANOF6Io8pQ0f3hf-13" value="طلب اصدار سجل تجاري" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="495" y="540" width="120" height="30" as="geometry" />
+          <mxGeometry x="575" y="440" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eNSrUANOF6Io8pQ0f3hf-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="610" as="sourcePoint" />
-            <mxPoint x="660" y="610" as="targetPoint" />
+            <mxPoint x="490" y="510" as="sourcePoint" />
+            <mxPoint x="740" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eNSrUANOF6Io8pQ0f3hf-17" value="عرض رقم طلب نفاذ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="505" y="585" width="100" height="30" as="geometry" />
+          <mxGeometry x="585" y="485" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="660" as="sourcePoint" />
-            <mxPoint x="670" y="660" as="targetPoint" />
+            <mxPoint x="210" y="560" as="sourcePoint" />
+            <mxPoint x="750" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-4" value="ارسال طلب اصدار سجل تجاري" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="140" y="630" width="160" height="30" as="geometry" />
+          <mxGeometry x="220" y="530" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-5" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="720" as="sourcePoint" />
-            <mxPoint x="140" y="720" as="targetPoint" />
+            <mxPoint x="750" y="620" as="sourcePoint" />
+            <mxPoint x="220" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-6" value="فتح تطبيق نفاذ لقبول الطلب" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="690" width="140" height="30" as="geometry" />
+          <mxGeometry x="550" y="590" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="780" as="sourcePoint" />
-            <mxPoint x="670" y="780" as="targetPoint" />
+            <mxPoint x="220" y="680" as="sourcePoint" />
+            <mxPoint x="750" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-8" value="عرض صفحة اختيار رقم الطلب الصحيح الخاص بالخدمة" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="745" width="260" height="30" as="geometry" />
+          <mxGeometry x="210" y="645" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="830" as="sourcePoint" />
-            <mxPoint x="150" y="830" as="targetPoint" />
+            <mxPoint x="750" y="730" as="sourcePoint" />
+            <mxPoint x="230" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-10" value="اختيار رقم الطلب الصحيح" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="800" width="130" height="30" as="geometry" />
+          <mxGeometry x="540" y="700" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-11" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="940" as="sourcePoint" />
-            <mxPoint x="670" y="940" as="targetPoint" />
+            <mxPoint x="220" y="840" as="sourcePoint" />
+            <mxPoint x="750" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-12" value="عرض تعليمات التقاط السمات الحيوية" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="170" y="910" width="180" height="30" as="geometry" />
+          <mxGeometry x="250" y="810" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-14" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="1000" as="sourcePoint" />
-            <mxPoint x="140" y="1000" as="targetPoint" />
+            <mxPoint x="750" y="900" as="sourcePoint" />
+            <mxPoint x="220" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-15" value="التقاط السمات الحيوية" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="970" width="120" height="30" as="geometry" />
+          <mxGeometry x="550" y="870" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="1010" as="sourcePoint" />
-            <mxPoint x="100" y="1060" as="targetPoint" />
+            <mxPoint x="180" y="910" as="sourcePoint" />
+            <mxPoint x="180" y="960" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="30" y="1010" />
-              <mxPoint x="30" y="1060" />
+              <mxPoint x="110" y="910" />
+              <mxPoint x="110" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-21" value="مطابقة السمات الحيوية&lt;br style=&quot;font-size: 12px;&quot;&gt;مركزيًا" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="10" y="965" width="110" height="40" as="geometry" />
+          <mxGeometry x="90" y="865" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-24" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="1090" as="sourcePoint" />
-            <mxPoint x="390" y="1090" as="targetPoint" />
+            <mxPoint x="220" y="990" as="sourcePoint" />
+            <mxPoint x="470" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-25" value="اتمام عملية التحقق وارسال حالة الطلب" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1060" width="180" height="30" as="geometry" />
+          <mxGeometry x="240" y="960" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="1150" as="sourcePoint" />
-            <mxPoint x="410" y="1150" as="targetPoint" />
+            <mxPoint x="750" y="1050" as="sourcePoint" />
+            <mxPoint x="490" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-27" value="اكمال المعلومات اللازمه لإصدار سجل تجاري" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="435" y="1120" width="210" height="30" as="geometry" />
+          <mxGeometry x="515" y="1020" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NImPXQZJimW4r6h6MOMr-3" value="وزارة التجارة" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000033;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="340" y="460" width="110" height="40" as="geometry" />
+          <mxGeometry x="420" y="360" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="NImPXQZJimW4r6h6MOMr-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="395" y="1220" as="sourcePoint" />
-            <mxPoint x="400" y="480" as="targetPoint" />
+            <mxPoint x="475" y="1120" as="sourcePoint" />
+            <mxPoint x="480" y="380" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=none;" parent="1" edge="1" source="NImPXQZJimW4r6h6MOMr-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1220" as="sourcePoint" />
-            <mxPoint x="680" y="500" as="targetPoint" />
+            <mxPoint x="760" y="1120" as="sourcePoint" />
+            <mxPoint x="760" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-36" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="880" as="sourcePoint" />
-            <mxPoint x="140" y="880" as="targetPoint" />
+            <mxPoint x="750" y="780" as="sourcePoint" />
+            <mxPoint x="220" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-41" value="“PIN” ادخال الرمز الشخصي" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="455" y="845" width="150" height="30" as="geometry" />
+          <mxGeometry x="535" y="745" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NImPXQZJimW4r6h6MOMr-1" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=default;verticalAlign=middle;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="660" y="460" width="30" height="40" as="geometry" />
+          <mxGeometry x="740" y="360" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n3JpCRL7r8352i-QcBVY-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="NImPXQZJimW4r6h6MOMr-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1220" as="sourcePoint" />
-            <mxPoint x="680" y="500" as="targetPoint" />
+            <mxPoint x="760" y="1120" as="sourcePoint" />
+            <mxPoint x="760" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
