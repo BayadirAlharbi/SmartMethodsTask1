@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T12:13:59.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="caWqGPh2_PxAR8TqVp82" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T12:24:57.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lyNJp_rfWQ5NWS5_EIOZ" version="20.5.3" type="github">
   <diagram id="zakXt2mR-U0YP79S-Iq2" name="Page-1">
     <mxGraphModel dx="1240" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
             <mxPoint x="494" y="467" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNSrUANOF6Io8pQ0f3hf-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;طلب اصدار سجل تجاري&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="545" y="433" width="160" height="30" as="geometry" />
+        <mxCell id="eNSrUANOF6Io8pQ0f3hf-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;طلب اصدار سجل تجاري&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="535" y="430" width="180" height="36" as="geometry" />
         </mxCell>
         <mxCell id="eNSrUANOF6Io8pQ0f3hf-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -22,11 +22,11 @@
             <mxPoint x="740" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNSrUANOF6Io8pQ0f3hf-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;عرض رقم طلب نفاذ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="565" y="480" width="140" height="30" as="geometry" />
+        <mxCell id="eNSrUANOF6Io8pQ0f3hf-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;عرض رقم طلب نفاذ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="560" y="477" width="150" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp;عرض رسالة &quot; لديك طلب اصدار سجل تجاري&lt;br&gt;&quot; من وزارة التجارة&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="190" y="510" width="280" height="50" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&quot;عرض رساله &quot; لديك طلب اصدار سجل تجاري من وزارة التجارة&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="180" y="522" width="440" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-5" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,17 +34,17 @@
             <mxPoint x="190" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-6" value="فتح تطبيق نفاذ لقبول الطلب" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="535" y="590" width="170" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-6" value="فتح تطبيق نفاذ لقبول الطلب" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="523" y="582" width="192" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;exitX=0.01;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="xGgf0CI4h1DL1v2N1gYJ-8">
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="680" as="sourcePoint" />
+            <mxPoint x="183" y="680" as="sourcePoint" />
             <mxPoint x="750" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-8" value="عرض صفحة اختيار رقم الطلب الصحيح الخاص بالخدمة" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="180" y="650" width="300" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-8" value="عرض صفحة اختيار رقم الطلب الصحيح الخاص بالخدمة" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="201" y="641" width="381" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -52,11 +52,11 @@
             <mxPoint x="190" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-10" value="اختيار رقم الطلب الصحيح" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="530" y="700" width="170" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-10" value="اختيار رقم الطلب الصحيح" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="523" y="698" width="185" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;عرض تعليمات التقاط السمات الحيوية&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="215" y="810" width="230" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;عرض تعليمات التقاط السمات الحيوية&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="202" y="808" width="256" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-14" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,8 +64,8 @@
             <mxPoint x="190" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-15" value="التقاط السمات الحيوية" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="540" y="870" width="140" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-15" value="التقاط السمات الحيوية" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="534" y="868" width="154" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -78,8 +78,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-21" value="مطابقة السمات الحيوية&lt;br style=&quot;font-size: 15px;&quot;&gt;مركزيًا" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="30" y="880" width="130" height="50" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-21" value="مطابقة السمات الحيوية&lt;br style=&quot;font-size: 20px;&quot;&gt;مركزيًا" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="8" y="872" width="161" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-24" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -87,8 +87,8 @@
             <mxPoint x="470" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-25" value="اتمام عملية التحقق وارسال حالة الطلب" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="960" width="220" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-25" value="اتمام عملية التحقق وارسال حالة الطلب" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="199" y="959" width="263" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -96,8 +96,8 @@
             <mxPoint x="490" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-27" value="اكمال الاجراءات اللازمه لإصدار سجل تجاري" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1020" width="240" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-27" value="اكمال الاجراءات اللازمه لإصدار سجل تجاري" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="465" y="1019" width="314" height="36" as="geometry" />
         </mxCell>
         <mxCell id="NImPXQZJimW4r6h6MOMr-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;وزارة التجارة&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000033;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="425" y="267" width="110" height="40" as="geometry" />
@@ -115,21 +115,21 @@
             <mxPoint x="190" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-41" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;“PIN” ادخال الرمز الشخصي&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="530" y="750" width="190" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;“PIN” ادخال الرمز الشخصي&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="508" y="744" width="211" height="36" as="geometry" />
         </mxCell>
         <mxCell id="NImPXQZJimW4r6h6MOMr-1" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=default;verticalAlign=middle;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="740" y="267" width="30" height="40" as="geometry" />
+          <mxGeometry x="763" y="277" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n3JpCRL7r8352i-QcBVY-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="NImPXQZJimW4r6h6MOMr-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="1120" as="sourcePoint" />
+            <mxPoint x="778" y="1104" as="sourcePoint" />
             <mxPoint x="760" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mGfSj0SXroHUIqfUnFye-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;exitX=-0.01;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xGgf0CI4h1DL1v2N1gYJ-4">
+        <mxCell id="mGfSj0SXroHUIqfUnFye-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="560" as="sourcePoint" />
+            <mxPoint x="191" y="560" as="sourcePoint" />
             <mxPoint x="740" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -152,11 +152,11 @@
             <mxPoint x="494" y="377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mGfSj0SXroHUIqfUnFye-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;تسجيل الدخول عبر تطبيق نفاذ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="530" y="340" width="181" height="32" as="geometry" />
+        <mxCell id="mGfSj0SXroHUIqfUnFye-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;تسجيل الدخول عبر تطبيق نفاذ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="516" y="340" width="210" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="mGfSj0SXroHUIqfUnFye-26" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;التحقق من هوية المستفيد&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="257" y="340" width="149" height="32" as="geometry" />
+        <mxCell id="mGfSj0SXroHUIqfUnFye-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;التحقق من هوية المستفيد&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="246" y="339" width="172" height="36" as="geometry" />
         </mxCell>
         <mxCell id="mGfSj0SXroHUIqfUnFye-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fillColor=#0050ef;strokeColor=#000033;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -170,8 +170,8 @@
             <mxPoint x="465" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mGfSj0SXroHUIqfUnFye-29" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;إتمام عملية التحقق وإعادة توجيه المستخدم&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="208.5" y="387" width="243" height="32" as="geometry" />
+        <mxCell id="mGfSj0SXroHUIqfUnFye-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;إتمام عملية التحقق وإعادة توجيه المستخدم&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="189.5" y="385" width="282" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
