@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T16:14:54.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UUrGepYIlLzkuDmEpt6h" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T07:24:07.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IZMlbshACz6ExA4Tnh44" version="20.5.3" type="github">
   <diagram id="zakXt2mR-U0YP79S-Iq2" name="Page-1">
-    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,8 +45,8 @@
             <mxPoint x="750" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ارسال طلب اصدار سجل تجاري&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="210" y="530" width="180" height="30" as="geometry" />
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &quot; عرض رسالة &quot; لديك طلب اصدار سجل تجاري من وزارة التجارة&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="190" y="530" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGgf0CI4h1DL1v2N1gYJ-5" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,7 +134,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=none;" parent="1" edge="1" source="NImPXQZJimW4r6h6MOMr-1">
+        <mxCell id="xGgf0CI4h1DL1v2N1gYJ-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=none;" parent="1" source="NImPXQZJimW4r6h6MOMr-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="1120" as="sourcePoint" />
             <mxPoint x="760" y="400" as="targetPoint" />
@@ -152,7 +152,7 @@
         <mxCell id="NImPXQZJimW4r6h6MOMr-1" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=default;verticalAlign=middle;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="740" y="360" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n3JpCRL7r8352i-QcBVY-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="NImPXQZJimW4r6h6MOMr-1">
+        <mxCell id="n3JpCRL7r8352i-QcBVY-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="NImPXQZJimW4r6h6MOMr-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="1120" as="sourcePoint" />
             <mxPoint x="760" y="400" as="targetPoint" />
